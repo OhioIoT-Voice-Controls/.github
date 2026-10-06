@@ -5,9 +5,9 @@ These videos/git repos are coming at the end of September.  Give me a week or tw
 
 | # | Topic |YouTube|GitHub|
 |---|-------|-------|------|
-| 1 | Offline Voice Control | [Video](https://youtu.be/oKQ9xvL7ptM) | [Code Example](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener) |
-|  |  |  | [Code Example w/Docker](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-With-Docker) |
-| 2 | Voice Control Using MQTT | [Video](https://youtu.be/_ERvoHMBDac) | [Code Example](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-MQTT) |
+| 1 | Offline Voice Control | [Video](https://youtu.be/oKQ9xvL7ptM) | [Vosk-Listener](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener) |
+|  |  |  | [Vosk-Listener-With-Docker](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-With-Docker) |
+| 2 | Voice Control Using MQTT | [Video](https://youtu.be/_ERvoHMBDac) | [Vosk-Listener-MQTT](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-MQTT) |
 | 3 | Build Your Own Custom Voice Control | [upcoming] | [Listener A](https://github.com/OhioIoT-Voice-Controls/Listener-A) |
 |  |  |  | [Listener B](https://github.com/OhioIoT-Voice-Controls/Listener-B) |
 |  |  |  | [Listener C](https://github.com/OhioIoT-Voice-Controls/Listener-C) |
