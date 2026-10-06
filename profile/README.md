@@ -8,8 +8,11 @@ These videos/git repos are coming at the end of September.  Give me a week or tw
 | 1 | Offline Voice Control | [Video](https://youtu.be/oKQ9xvL7ptM) | [Code Example](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener) |
 |  |  |  | [Code Example w/Docker](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-With-Docker) |
 | 2 | Voice Control Using MQTT | [Video](https://youtu.be/_ERvoHMBDac) | [Code Example](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-MQTT) |
-| 3 | Get Audio Response to your Commands | [upcoming] | [upcoming] |
-| 4 | Spin Up Your Own Voice Control | [upcoming] | [upcoming] |
+| 3 | Build Your Own Custom Voice Control | [upcoming] | [Listener A](https://github.com/OhioIoT-Voice-Controls/Listener-A) |
+|  |  |  | [Listener B](https://github.com/OhioIoT-Voice-Controls/Listener-B) |
+|  |  |  | [Listener C](https://github.com/OhioIoT-Voice-Controls/Listener-C) |
+| 4 | Get Audio Response to your Commands | [upcoming] | [upcoming] |
+| 5 | Spin Up Your Own Voice Control | [upcoming] | [upcoming] |
 
 <br />
 Learn more about OhioIoT:
