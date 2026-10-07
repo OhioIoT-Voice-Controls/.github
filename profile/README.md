@@ -10,7 +10,7 @@ These videos/git repos are coming at the end of September.  Give me a week or tw
 | 2 | Voice Control Using MQTT | [Video](https://youtu.be/_ERvoHMBDac) | [Vosk-Listener-MQTT](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-MQTT) |
 | 3 | Build Your Own Custom Voice Control | [upcoming] | [Listener A](https://github.com/OhioIoT-Voice-Controls/Listener-A) |
 |  |  |  | [Listener B](https://github.com/OhioIoT-Voice-Controls/Listener-B) |
-|  |  |  | [Listener C](https://github.com/OhioIoT-Voice-Controls/Listener-C-Build) |
+|  |  |  | [Listener C Build](https://github.com/OhioIoT-Voice-Controls/Listener-C-Build) |
 |  |  |  | [Listener C](https://github.com/OhioIoT-Voice-Controls/Listener-C-RPi) |
 | 4 | Get Audio Response to your Commands | [upcoming] | [upcoming] |
 | 5 | Spin Up Your Own Voice Control | [upcoming] | [upcoming] |
