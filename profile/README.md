@@ -13,7 +13,6 @@ For this table to make sense - watch the video, then you'll understand why we ha
 |  |  |  | [Listener C Build](https://github.com/OhioIoT-Voice-Controls/Listener-C-Build) |
 |  |  |  | [Listener C](https://github.com/OhioIoT-Voice-Controls/Listener-C) |
 | 4 | Get Audio Response to your Commands | [upcoming] | [upcoming] |
-| 5 | Spin Up Your Own Voice Control | [upcoming] | [upcoming] |
 
 <br />
 Learn more about OhioIoT:
