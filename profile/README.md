@@ -1,5 +1,5 @@
 # OhioIoT Voice Controls<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
-#### [(back to OhioIoT GitHub Page)](https://github.com/OhioIoT-Examples)
+[(back to OhioIoT GitHub Page)](https://github.com/OhioIoT-Examples)
 
 For this table to make sense - watch the video, then you'll understand why we have the various repos.
 
