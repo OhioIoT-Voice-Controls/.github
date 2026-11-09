@@ -15,7 +15,9 @@ For this table to make sense - watch the video, then you'll understand why we ha
 | 4 | Get Audio Responses From Your Commands | [upcoming] | [upcoming] |
 
 <br />
+
 ## Learn more about OhioIoT
+
 - [OhioIoT on the web](https://ohioiot.com) — the tools you need to put together your own IoT system with an ESP32. $7/mo.
 - [YouTube @ohioiot](https://www.youtube.com/@ohioiot) — agenda-free IoT tutorials
 - [Code examples index](https://github.com/OhioIoT-Examples)
